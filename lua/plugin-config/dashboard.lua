@@ -22,12 +22,13 @@ db.custom_center = {
   {
     icon = "  ",
     desc = "Edit keybindings                    ",
-    action = "edit ~/.config/nvim/lua/keybindings.lua",
+    action = "edit ~/AppData/Local/nvim/lua/keybindings.lua",
   },
   {
     icon = "  ",
     desc = "Edit Projects                       ",
-    action = "edit ~/.local/share/nvim/project_nvim/project_history",
+    -- 运行命令 :lua print(require("project_nvim.utils.path").historyfile) 就可以看到 project_history 文件的路径了。
+    action = "edit ~/AppData/Local/nvim-data/project_nvim/project_history",
   },
   -- {
   --   icon = "  ",

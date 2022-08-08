@@ -6,7 +6,6 @@ packer.startup(
     -- 你的插件列表...
     use("folke/tokyonight.nvim")
     use("ellisonleao/gruvbox.nvim")
-    use("sainnhe/sonokai")
 
     use({ "kyazdani42/nvim-tree.lua", requires = "kyazdani42/nvim-web-devicons" })
     -- bufferline (新增)

@@ -169,11 +169,6 @@ _G.packer_plugins = {
     path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\project.nvim",
     url = "https://github.com/ahmedkhalf/project.nvim"
   },
-  sonokai = {
-    loaded = true,
-    path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\sonokai",
-    url = "https://github.com/sainnhe/sonokai"
-  },
   ["telescope.nvim"] = {
     loaded = true,
     path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\telescope.nvim",
