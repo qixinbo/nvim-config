@@ -4,7 +4,7 @@ packer.startup(
     -- Packer 可以管理自己本身
     use 'wbthomason/packer.nvim'
     -- 你的插件列表...
-    use("folke/tokyonight.nvim")
+    -- use("folke/tokyonight.nvim")
     use("ellisonleao/gruvbox.nvim")
 
     use({ "kyazdani42/nvim-tree.lua", requires = "kyazdani42/nvim-web-devicons" })
