@@ -134,6 +134,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-cmp",
     url = "https://github.com/hrsh7th/nvim-cmp"
   },
+  ["nvim-comment"] = {
+    loaded = true,
+    path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-comment",
+    url = "https://github.com/terrortylor/nvim-comment"
+  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-lspconfig",
@@ -173,11 +178,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
-  },
-  ["tokyonight.nvim"] = {
-    loaded = true,
-    path = "C:\\Users\\Z003V5NS\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\tokyonight.nvim",
-    url = "https://github.com/folke/tokyonight.nvim"
   },
   ["vim-bbye"] = {
     loaded = true,

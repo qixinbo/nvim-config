@@ -36,3 +36,7 @@ require("lsp.setup")
 
 require("lsp.cmp")
 require("lsp.ui")
+
+
+-- 注释
+require("plugin-config.comment")

@@ -39,6 +39,9 @@ packer.startup(
     use("rafamadriz/friendly-snippets")
 
     use("mhartington/formatter.nvim")
+
+    use("terrortylor/nvim-comment")
+
 end)
 
 -- 每次保存 plugins.lua 自动安装插件
